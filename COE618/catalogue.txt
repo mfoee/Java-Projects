@@ -1,0 +1,291 @@
+Don QUixote
+De Cervantes, Miguel
+17.27
+Pilgrim's Progress
+Bunyan, John
+18.17
+Robinson Crusoe
+Defoe, Daniel
+10.33
+Gulliver's Travels
+Swift, Jonathan
+6.34
+Tom Jones
+Fielding, Henry
+8.50
+Clarissa Or The History Of A Young Lady
+Richardson, Samuel
+17.24
+Tristram Shandy
+Sterne, Laurence
+15.68
+Dangerous Liaisons
+De Laclos, Pierre Choderlos
+12.50
+Emma
+Austen, Jane
+4.75
+Frankenstein
+Shelley, Mary
+8.75
+Nightmare Abbey
+Peacock, Thomas Love
+18.46
+The Black Sheep
+De Balzac, Honore
+9.99
+Things Fall Apart
+Achebe, Chinua
+12.99
+Fairy Tales
+Andersen, Hans Christian
+3.03
+The Divine Comedy
+Alighieri, Dante
+15.68
+Epic of Gilgamesh
+Anonymous
+12.59
+Book of Job
+Mitchell, Stephen
+9.99
+The Arabian Nights: Tales from A Thousand and One Nights
+Byatt, A.S and Burton, Richard
+10.79
+Pride and Prejudice
+Austen, Jane
+9.86
+La Pere Goriot
+de Balzac, Honore
+5.46
+Three Novels:  Molloy, Malone Dies, The Unnamable
+Beckett, Samuel
+15.52
+The Decameron
+Boccaccio, Giovanni
+12.64
+Ficciones
+Borges, Jore Luis
+12.64
+Wuthering Heights
+Bronte, Emily
+9.86
+The Stranger
+Camus, Albert
+16.26
+Poems
+Celan, Paul
+44.99
+Journey To The End Of The Night
+Celine, Louis-Ferdinand
+13.72
+The Canterbury Tales
+Chaucer, Geoffrey
+7.59
+Stories
+Chekhov, Anton
+13.00
+Nostromo
+Conrad, Joseph
+5.36
+Great Expectations
+Dickens, Charles
+9.49
+Jacques the Fatalist
+Diderot, Denis
+12.56
+Berlin Alexanderplatz
+Doblin, Alfred
+9.99
+Crime and Punishment
+Dostoevsky, Fyodor
+13.99
+The Idiot
+Dostoevsky, Fyodor
+14.40
+The Possessed
+Dostoevsky, Fyodor
+12.56
+The Brothers Karamazov
+Dostoevsky, Fyodor
+14.44
+Middlemarch
+Eliot, George
+10.79
+The Invisible Man
+Wells, H.G
+21.85
+Invisble Man
+Ellison, Ralph
+13.99
+Medea
+Euripides
+10.48
+Absalom, Absalom!
+Faulkner, William
+12.27
+The Sound and the Fury
+Faulkner, William
+11.55
+Madame Bovary
+Flaubert, Gustave
+7.36
+Sentimental Education
+Flaubert, Gustave
+7.55
+Gypsy Ballads
+Garcia Lorca, Federico
+28.37
+One Hundred Years of Solitude
+Marquez, Gabriel Garcia
+12.99
+Love in the Time of Cholera
+Marquez, Gabriel Garcia
+9.47
+Faust
+von Goethe, Johann Wolfgang
+9.45
+Dead Souls
+Gogol, Nikolai
+14.40
+The Tin Drum
+Grass, Gunter
+9.99
+The Devil to Pay in the Backlands
+Rosa, Joao Guimaraes
+16.25
+Hunger
+Hamsun, Knut
+8.08
+The Old Man and the Sea
+Hemingway, Ernest
+10.11
+Iliad
+Homer
+13.72
+Odyssey
+Homer
+13.71
+A Doll's House
+Ibsen, henrik
+11.69
+Ulysses
+Joyce, James
+6.88
+The Complete Stories
+Kafka, Franz
+13.72
+The Trial
+Kafka, Franz
+12.96
+The Castle
+Kafka, Franz
+15.85
+Shakuntala
+Kalidasa
+22.54
+The Sound of the Mountain
+Kawabata, Yasunari
+13.72
+Zorba The Greek
+Kazantzakis, Nikos
+9.89
+Sons and Lovers
+Lawrence, D.H
+10.76
+Independent People
+Laxness, Halldor
+14.40
+The Golden Notebook
+Lessing, Doris
+13.36
+Pippi Longstocking
+Lindgren, Astrid
+7.12
+Moby Dick
+Melville, Herman
+11.66
+Nineteen Eighy Four
+Orwell, Goerge
+9.89
+Lolita
+Nabokov, Vladimir
+13.68
+Hamlet
+Shakespeare, William
+15.16
+Othello
+Shakespeare, William
+9.89
+A Midsummer Night's Dream
+Shakespeare, William
+7.13
+Macbeth
+Shakespeare, William
+5.23
+Romeo and Juliet
+Shakespeare, William
+9.86
+The Da Vinci Code
+Brown, Dan
+20.69
+Angels & Demons
+Brown, Dan
+11.69
+The Godfather
+Puzo, Mario
+10.99
+Harry Potter and The Sorcerer's Stone
+Rowling, J.K
+10.91
+Harry Potter and the Chamber of Secrets
+Rowling, J.K
+10.91
+Harry Potter and The Prisoner of Azkaban
+Rowling, J.K
+10.91
+Harry Potter and The Goblet of Fire
+Rowling, J.K
+10.91
+Harry Potter and the Order of the Phoenix
+Rowling, J.K
+10.91
+Harry Potter and the Half-Blood Prince
+Rowling, J.K
+10.91
+Harry Potter and the Deathly Hallows
+Rowling, J.K
+10.91
+The Lord of the Rings:  The Fellowship of the Ring
+Tolkien, J.R.R
+9.89
+The Lord of the Rings: The Two Towers
+Tolkien, J.R.R
+9.89
+The Lord of the Rings: The Return of the King
+Tolkien, J.R.R
+9.89
+To Kill a Mockingbird
+Lee, Harper
+8.54
+A Time to Kill
+Grisham, John
+7.99
+Runaway Jury
+Grisham, John
+5.67
+One Piece
+Oda, Eiichiro
+1000000000.00
+Playboy: April 2013 Issue
+Hefner, Hugh
+0.99
+Awesome:  How To Become One
+Foe, Michael
+567.89
+Fundamentals of Being Badass
+Papa, John
+1337.00
+Anime: Why I Love Them
+Seto, Dennis
+24.99

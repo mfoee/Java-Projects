@@ -1,0 +1,7 @@
+We need to implement the java.util.internet library!
+
+HOW:
+
+download the appropriate library (should be included in this rar)
+Tools -> Ant Library -> New Library -> add the mail.jar
+Right click the FProject -> Properties -> Libraries -> Add mail.jar
